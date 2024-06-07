@@ -1,0 +1,4 @@
+<h1>Welcome to my Website!</h1>
+<a href="./public/about"><img src="./image/cv.jpg"/></a>
+<hr>
+<a href="./public/contact">Contact Me</a> <br>
